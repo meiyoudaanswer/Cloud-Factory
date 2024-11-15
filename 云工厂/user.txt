@@ -1,0 +1,1 @@
+{"account":"2004","password":"0510","name":"liya","contactInfo":"6856","type":"factoryAdmin","factoryName":"一颗柳丁","factoryDescription":"困"}

@@ -1,0 +1,6 @@
+{"id":"STR24021","name":"提纳里耳朵发箍","type":"原神周边","specification":"毛茸茸耳朵","description":"可爱死我了"}
+{"id":"STR24022","name":"三月七立牌","type":"星穹铁道周边","specification":"能立着","description":"这个也好可爱"}
+{"id":"STR24023","name":"史莱姆玩偶","type":"原神周边","specification":"无比Q弹","description":"捏上就停不下来"}
+{"id":"STR24021","name":"达达利亚挂件","type":"原神周边","specification":"一个挂件","description":"还挺沉"}
+{"id":"STR24022","name":"兰那罗木刻","type":"原神周边","specification":"亲手雕刻","description":"有点抽象"}
+{"id":"STR24023","name":"兰那罗的小衣服","type":"原神周边","specification":"亲手缝制","description":"非常精致"}

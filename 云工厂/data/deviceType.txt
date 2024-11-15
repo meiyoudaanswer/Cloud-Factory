@@ -1,0 +1,4 @@
+{"name":"车床","deviceList":[]}
+{"name":"缝纫机","deviceList":[]}
+{"name":"液压器","deviceList":[]}
+{"name":"印刷器","deviceList":[]}
